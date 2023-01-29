@@ -1,5 +1,5 @@
 # STRING_MAKE_FIRST_AND-_LAST-_CHARACTER_IN-CAPITAL
-#String.valueOf()  // THIS IS USE TTO CONVERT ANY DATA TYPE IN STRING OBJECT
+#String.valueOf()  // THIS IS USE TTO CONVERT ANY DATA TYPE IN STRING OBJECtt
 
 String finalLast = (String.valueOf(last)).toUpperCase();
 
